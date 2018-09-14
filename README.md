@@ -1,4 +1,4 @@
-#Dual Resonant Solid State Tesla Coil (DRSSTC)
+# Dual Resonant Solid State Tesla Coil (DRSSTC)
 
 Tesla Coil is a team project built by UCSB IEEE members during Spring 2018.
 
@@ -6,5 +6,5 @@ A Tesla coil is an electrical resonant transformer circuit designed by inventor 
 
 We determined to build a Dual Resonant Solid State Tesla Coil (DRSSTC) because it’s a really good project to combine different fields together, including the knowledge of basic analog circuit, basic digital circuit, PCB designing and assembly, power electronics, RF circuit etc. In the same time, students can also get the hand-on experience in building mechanical structure, 3D modeling different mechanical parts and using 3D printers, which are important and useful engineering skills.
 
-##Video
+## Video
 https://youtu.be/pIqlcvLrUGQ
