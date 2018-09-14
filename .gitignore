@@ -1,5 +1,9 @@
-*
-!.gitignore
-!DRSSTC.PrjPcb
-!Motherboard.PcbDoc
-!MotherBoard.SchDoc
+**/__Previews
+**/History
+/Project Logs for DRSSTC
+/Project Outputs for DRSSTC
+debug.log
+DRSSTC GerberFiles.rar
+DRSSTC.OutJob
+DRSSTC.PrjPcbStructure
+Motherboard.PcbDoc.htm
